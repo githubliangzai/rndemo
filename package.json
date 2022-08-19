@@ -1,6 +1,6 @@
 {
-  "name": "rndemo0_68_0",
-  "version": "0.0.1",
+  "name": "rn-demo",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "android": "react-native run-android",

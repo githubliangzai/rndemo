@@ -93,7 +93,7 @@ const Section = ({ children, title }): Node => {
   );
 };
 
-const App: () => Node = () => {
+let App: () => Node = () => {
   const isDarkMode = useColorScheme() === 'dark';
 
   const backgroundStyle = {
@@ -156,6 +156,9 @@ const App: () => Node = () => {
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.
           </Section>
+          <Section title="Step Two">
+            yarn start and run application with IDE.
+          </Section>
           <Section title="项目名称">
             <Text style={styles.highlight}>{packageInfo.name}</Text>
           </Section>
@@ -195,4 +198,6 @@ const styles = StyleSheet.create({
   },
 });
 
+let codePushOptions = {checkFrequency: CodePush.CheckFrequency.MANUAL};
+App = CodePush(codePushOptions)(App);
 export default App;

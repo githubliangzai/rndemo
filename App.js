@@ -152,12 +152,15 @@ let App: () => Node = () => {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Step One">
+          <Section title="Step 1">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.
           </Section>
-          <Section title="Step Two">
-            yarn start and run application with IDE.
+          <Section title="Step 2">
+            Run 'yarn start' in the command line under project root dir and then run application with IDE.
+          </Section>
+          <Section title="Step 3">
+            Click r to apply the lastest edits.
           </Section>
           <Section title="项目名称">
             <Text style={styles.highlight}>{packageInfo.name}</Text>

@@ -1,0 +1,2047 @@
+{
+  "errcode": 0,
+  "errmsg": "",
+  "data": {
+    "count": 246,
+    "count_desc": "(约100+件)",
+    "products": [
+      {
+        "id": "e6d4155c-f4ad-475f-a93e-a7a59db74fe0",
+        "price": 350,
+        "stock_quantity": 10,
+        "spread_tag": 0,
+        "market_price": 350,
+        "discount_rate": 1.0,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "f6e664d8-aa82-48e1-933c-315e45e8a556",
+            "spread_tag": 0,
+            "spread_tag_desc": "今天上市",
+            "stock_quantity": 10,
+            "price": 350,
+            "time_production": 1658073600000,
+            "time_expired": 1658505540000,
+            "time_earliest_delivery": 1658160000000,
+            "time_last_delivery": 1658419140000,
+            "description": "",
+            "num": "20400013110822071821360846",
+            "receipt_checklist_id": "d2c8ffc7-b70f-4b29-85b2-a15f709aa7df",
+            "supplier_id": "feea1701-a813-4895-a990-e7637a879e81",
+            "discount_label": "",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "221ml/袋",
+        "order_remarks": [
+
+        ],
+        "product_id": "b15e1173-1b43-4eb2-8055-b78cb4d3a033",
+        "name": "长富巴氏鲜奶221ml/袋",
+        "sub_title": "100%鲜奶",
+        "main_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1619664146520.png",
+        "product_original_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1619664146520.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": true,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "",
+        "price_guide": 350,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "福建省",
+        "stock_quantity_tag": "",
+        "tax_category_id": "7cb4a5aa-6bf2-4ae2-a8b2-edbbbab3865d",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "今天上市",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          },
+          {
+            "position": 40,
+            "text": "新旧包装",
+            "bg_color": "#EBFEF3",
+            "text_color": "#17B356",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 30,
+            "style": 4,
+            "value": 3010
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "ea98af45-feae-4d94-8706-323efb0dbd00",
+        "price": 990,
+        "stock_quantity": 5,
+        "spread_tag": 0,
+        "market_price": 1390,
+        "discount_rate": 0.71,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "51cbd6bf-19d1-429a-ac02-d6db2b732a36",
+            "spread_tag": 0,
+            "spread_tag_desc": "7月16日上市",
+            "stock_quantity": 5,
+            "price": 990,
+            "time_production": 1657900800000,
+            "time_expired": 1659196740000,
+            "time_earliest_delivery": 1658151351788,
+            "time_last_delivery": 1659023940000,
+            "description": "",
+            "num": "204052360108220718213616935",
+            "receipt_checklist_id": "2e35f0f2-0cd9-4aed-a0b1-a06b5cd6a4b3",
+            "supplier_id": "e1b4337f-2621-4717-be2c-b9e2803b3d5f",
+            "discount_label": "",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "900ml/份",
+        "order_remarks": [
+
+        ],
+        "product_id": "dd1b3f34-f5a5-4f3a-9f14-05e2158479c0",
+        "name": "伊利屋顶鲜牛奶900ml/盒",
+        "sub_title": "巴氏技术， 口感香醇",
+        "main_image": "STORE_PRODUCT/cdc41a95115f4fdab25c4bf36a554162/1641268236849.png?x-oss-process=image/format,jpg,image/resize,h_720/watermark,image_U0NFTkVTX0JBTk5FUi80ZDg2MDU5ZTMwNzA0M2UzYmU1NmZmMDQ2ZGM1ZGIxOS8xNjU1MzA4OTg4NTEwLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA,t_100,g_center,x_0,y_0#",
+        "product_original_image": "STORE_PRODUCT/cdc41a95115f4fdab25c4bf36a554162/1641268236849.png",
+        "custom_tag_background_color": "",
+        "custom_tag_text": "",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "",
+        "price_guide": 990,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "广东省惠州市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "7cb4a5aa-6bf2-4ae2-a8b2-edbbbab3865d",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "7月16日上市",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 10,
+            "text": "",
+            "bg_color": "",
+            "text_color": "",
+            "images": [
+              {
+                "type": 10,
+                "url": "",
+                "image_height": 0,
+                "image_width": 0,
+                "id": "09f746bf-9f9a-41aa-8994-77a33e00c439"
+              },
+              {
+                "type": 30,
+                "url": "SCENES_BANNER/4d86059e307043e3be56ff046dc5db19/1655308988510.png",
+                "image_height": 0,
+                "image_width": 0,
+                "id": "09f746bf-9f9a-41aa-8994-77a33e00c439"
+              }
+            ],
+            "link_router": "",
+            "type": 60,
+            "style": 1,
+            "value": 6010
+          },
+          {
+            "position": 50,
+            "text": "¥13.9",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "a2646573-3eb2-423c-b110-6bf869d4c080",
+        "price": 5980,
+        "stock_quantity": 6,
+        "spread_tag": 0,
+        "market_price": 6800,
+        "discount_rate": 0.88,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "32d4cd14-601d-49d9-a768-7a72dc51742d",
+            "spread_tag": 0,
+            "spread_tag_desc": "7月13日生产",
+            "stock_quantity": 6,
+            "price": 5980,
+            "time_production": 1657641600000,
+            "time_expired": 1662825540000,
+            "time_earliest_delivery": 1658148180370,
+            "time_last_delivery": 1661961540000,
+            "description": "",
+            "num": "20405022810822071820432207",
+            "receipt_checklist_id": "1e3b2df7-2cc1-4837-a244-e20e88f403db",
+            "supplier_id": "d7be1da8-5ae0-4b6a-b17a-cfe9393c40a5",
+            "discount_label": "8.8折",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "200g*20/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "25b5e808-3b49-4b81-8920-21c7f9658d6a",
+        "name": "新疆花园纯牛奶200g*20/箱",
+        "sub_title": "新旧包装  每一滴都来自优质牧场还原天然味道。",
+        "main_image": "STORE_PRODUCT/08226b61599843adab0199731f4a51b0/1610068705646.png",
+        "product_original_image": "STORE_PRODUCT/08226b61599843adab0199731f4a51b0/1610068705646.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": true,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "8.8折",
+        "price_guide": 6680,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "新疆石河子",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "7月13日生产",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥68",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          },
+          {
+            "position": 40,
+            "text": "新旧包装",
+            "bg_color": "#EBFEF3",
+            "text_color": "#17B356",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 30,
+            "style": 4,
+            "value": 3010
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "2715e86a-5c2a-4f2e-9335-43f192280942",
+        "price": 5980,
+        "stock_quantity": 6,
+        "spread_tag": 0,
+        "market_price": 7180,
+        "discount_rate": 0.83,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "60c3ac41-6861-4425-b48d-faa612458ebf",
+            "spread_tag": 0,
+            "spread_tag_desc": "22年12月14日到期",
+            "stock_quantity": 6,
+            "price": 5980,
+            "time_production": 1655222400000,
+            "time_expired": 1671033540000,
+            "time_earliest_delivery": 1658156598724,
+            "time_last_delivery": 1669823940000,
+            "description": "",
+            "num": "2040502241082207182303579317",
+            "receipt_checklist_id": "a3d91476-0334-4b1c-957d-d55aff004743",
+            "supplier_id": "1cd7b6ba-bdfa-4417-ab74-fc75cef7cb6a",
+            "discount_label": "已减12元",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": " 250ml*24/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "6286e94a-2eec-4eee-9870-c56f4273087e",
+        "name": "澳牛纯牛奶250ml*24盒/箱",
+        "sub_title": "口感爽滑细腻 浓郁奶香",
+        "main_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1631238730544.png",
+        "product_original_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1631238730544.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "已减12元",
+        "price_guide": 7180,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "详见包装",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "spu_id": "a70acec1-6e6e-4a54-9d0b-dad40d568f62",
+        "labels": [
+          {
+            "position": 30,
+            "text": "22年12月14日到期",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥71.8",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "33f40e57-3e8a-4fed-8d32-e2bac1c16180",
+        "price": 1450,
+        "stock_quantity": 10,
+        "spread_tag": 0,
+        "market_price": 1450,
+        "discount_rate": 1.0,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "b8017027-f155-4c67-bb94-94ff0a7923de",
+            "spread_tag": 0,
+            "spread_tag_desc": "今天上市",
+            "stock_quantity": 10,
+            "price": 1450,
+            "time_production": 1658073600000,
+            "time_expired": 1658678340000,
+            "time_earliest_delivery": 1658160000000,
+            "time_last_delivery": 1658591940000,
+            "description": "",
+            "num": "20400013210822071821361011",
+            "receipt_checklist_id": "d2c8ffc7-b70f-4b29-85b2-a15f709aa7df",
+            "supplier_id": "feea1701-a813-4895-a990-e7637a879e81",
+            "discount_label": "",
+            "purchase_fail_tip": "库存不足，无法加购更多啦"
+          }
+        ],
+        "spec": "1L/盒",
+        "order_remarks": [
+
+        ],
+        "product_id": "7d7606f1-a62b-4632-9acd-61a61d353d05",
+        "name": "长富屋顶纯鲜牛奶1L/盒",
+        "sub_title": "100%鲜牛奶 ",
+        "main_image": "STORE_PRODUCT/ec29a07ccbb5451b9fb46b71f2a38057/1648802666409.png",
+        "product_original_image": "STORE_PRODUCT/ec29a07ccbb5451b9fb46b71f2a38057/1648802666409.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "",
+        "price_guide": 1450,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "福建省",
+        "stock_quantity_tag": "",
+        "tax_category_id": "7cb4a5aa-6bf2-4ae2-a8b2-edbbbab3865d",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "今天上市",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "库存不足，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "7e0d4558-35c2-44c7-b585-3c446de4aae1",
+        "price": 4980,
+        "stock_quantity": 6,
+        "spread_tag": 0,
+        "market_price": 5960,
+        "discount_rate": 0.84,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+
+        ],
+        "spec": " 250ml*20/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "6ab41bf9-f7af-4be8-9f92-252a8257d862",
+        "name": "澳牛纯牛奶250ml*20盒/箱",
+        "sub_title": "浓郁奶香 爽滑细腻",
+        "main_image": "STORE_PRODUCT/2020/04/20/4050226_main.jpeg",
+        "product_original_image": "STORE_PRODUCT/2020/04/20/4050226_main.jpeg",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "8.4折",
+        "price_guide": 5360,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "详见包装",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "spu_id": "a70acec1-6e6e-4a54-9d0b-dad40d568f62",
+        "labels": [
+          {
+            "position": 30,
+            "text": "浓郁奶香 爽滑细腻",
+            "bg_color": "",
+            "text_color": "#666666",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5040
+          },
+          {
+            "position": 50,
+            "text": "¥59.6",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "库存不足，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "2231d228-4f8b-46f2-bbda-4ce366cae99c",
+        "price": 4950,
+        "stock_quantity": 10,
+        "spread_tag": 0,
+        "market_price": 6500,
+        "discount_rate": 0.76,
+        "activity_ids": [
+
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "576f92d6-9f06-41cb-ba43-ffd12f662d4b",
+            "spread_tag": 0,
+            "spread_tag_desc": "22年12月12日到期",
+            "stock_quantity": 10,
+            "price": 4950,
+            "time_production": 1655049600000,
+            "time_expired": 1670860740000,
+            "time_earliest_delivery": 1658070343093,
+            "time_last_delivery": 1668268740000,
+            "description": "",
+            "num": "2040000851082207172305439475",
+            "receipt_checklist_id": "a15cf555-58b8-4f42-9976-0ca7ecfa010b",
+            "supplier_id": "d28a0377-d49a-45e1-92d5-690435e473ab",
+            "discount_label": "已减15.5元",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "250ml*12",
+        "order_remarks": [
+
+        ],
+        "product_id": "c81f9afa-74ec-409b-87b0-65283adee590",
+        "name": "蒙牛特仑苏纯牛奶250ml*12/箱",
+        "sub_title": "营养新高度 健康好搭档",
+        "main_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1631016144410.png",
+        "product_original_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1631016144410.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "已减15.5元",
+        "price_guide": 4990,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "内蒙古自治区",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "22年12月12日到期",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥65",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "ee93b7a1-c751-478c-bfee-661494ddc08a",
+        "price": 6180,
+        "stock_quantity": 1,
+        "spread_tag": 0,
+        "market_price": 7680,
+        "discount_rate": 0.8,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "feed460c-ca12-469d-b922-40426e8bd0d5",
+            "spread_tag": 0,
+            "spread_tag_desc": "22年12月19日到期",
+            "stock_quantity": 1,
+            "price": 6180,
+            "time_production": 1655654400000,
+            "time_expired": 1671465540000,
+            "time_earliest_delivery": 1658063623733,
+            "time_last_delivery": 1668873540000,
+            "description": "",
+            "num": "2040000491082207172113449331",
+            "receipt_checklist_id": "67c9dfa5-b018-4023-97b5-83a9c56d50fb",
+            "supplier_id": "1cc15397-43b9-46d4-a564-1357bbb8b9e8",
+            "discount_label": "已减15元",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "250ml*24/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "fa05a577-1694-492e-87d1-59fc7ea73097",
+        "name": "伊利纯牛奶250ml*24/箱",
+        "sub_title": "奶源纯正 ",
+        "main_image": "STORE_PRODUCT/5d0bc5a2a4f946beb9a1b7234737d588/1648086158327.png",
+        "product_original_image": "STORE_PRODUCT/5d0bc5a2a4f946beb9a1b7234737d588/1648086158327.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "已减15元",
+        "price_guide": 7500,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "内蒙古自治区",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "22年12月19日到期",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥76.8",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "335f4582-28ba-417c-b053-96eefe7b2484",
+        "price": 6380,
+        "stock_quantity": 5,
+        "spread_tag": 0,
+        "market_price": 7680,
+        "discount_rate": 0.83,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+
+        ],
+        "spec": "250ml*24/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "6c2258d8-c244-4336-a9d9-c258ee310805",
+        "name": "长富精品奶250ml*24/箱",
+        "sub_title": "奶香浓郁 营养美味",
+        "main_image": "STORE_PRODUCT/cdc41a95115f4fdab25c4bf36a554162/1657180373004.png",
+        "product_original_image": "STORE_PRODUCT/cdc41a95115f4fdab25c4bf36a554162/1657180373004.png",
+        "custom_tag_background_color": "#429ed9",
+        "custom_tag_text": "",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "STORE_PRODUCT/cdc41a95115f4fdab25c4bf36a554162/1645845052961.png",
+        "discount_label": "已减13元",
+        "price_guide": 7680,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "福建省南平市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "奶香浓郁 营养美味",
+            "bg_color": "",
+            "text_color": "#666666",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5040
+          },
+          {
+            "position": 50,
+            "text": "¥76.8",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "e1aa31bc-5986-4794-b0f8-10cd4f988407",
+        "price": 250,
+        "stock_quantity": 30,
+        "spread_tag": 0,
+        "market_price": 350,
+        "discount_rate": 0.71,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "b8511eee-1a61-44b3-a966-0782ae204f29",
+            "spread_tag": 0,
+            "spread_tag_desc": "7月16日生产",
+            "stock_quantity": 30,
+            "price": 250,
+            "time_production": 1657900800000,
+            "time_expired": 1659715140000,
+            "time_earliest_delivery": 1658151354273,
+            "time_last_delivery": 1659542340000,
+            "description": "",
+            "num": "204050255108220718213624958",
+            "receipt_checklist_id": "f1a144f3-0e46-4c73-8e7f-a3547b6f830d",
+            "supplier_id": "86a52f01-3b63-486f-b149-259b3372093e",
+            "discount_label": "7.1折",
+            "purchase_fail_tip": "库存不足，无法加购更多啦"
+          }
+        ],
+        "spec": "180ml/袋",
+        "order_remarks": [
+
+        ],
+        "product_id": "44e7652b-a90e-4328-a89f-74471de7e218",
+        "name": "蒙牛巴氏鲜牛奶180ml/袋",
+        "sub_title": "巴氏杀菌 营养健康。撕开即饮。",
+        "main_image": "STORE_PRODUCT/5d0bc5a2a4f946beb9a1b7234737d588/1631416058586.png",
+        "product_original_image": "STORE_PRODUCT/5d0bc5a2a4f946beb9a1b7234737d588/1631416058586.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": true,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "7.1折",
+        "price_guide": 350,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "安徽省马鞍山市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "7cb4a5aa-6bf2-4ae2-a8b2-edbbbab3865d",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "7月16日生产",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥3.5",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          },
+          {
+            "position": 40,
+            "text": "新旧包装",
+            "bg_color": "#EBFEF3",
+            "text_color": "#17B356",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 30,
+            "style": 4,
+            "value": 3010
+          }
+        ],
+        "purchase_fail_tip": "库存不足，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "e09541ab-ab3f-4303-b959-67e50f415c3e",
+        "price": 3690,
+        "stock_quantity": 6,
+        "spread_tag": 0,
+        "market_price": 4990,
+        "discount_rate": 0.74,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+
+        ],
+        "spec": "210g*12盒/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "dfc91a55-ca9f-4337-9e39-9c48434125c0",
+        "name": "花花牛瑞亚牧场纯牛奶210g*12盒/箱",
+        "sub_title": "新鲜纯牛奶",
+        "main_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1616466327366.png",
+        "product_original_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1616466327366.png",
+        "custom_tag_background_color": "",
+        "custom_tag_text": "",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "已减13元",
+        "price_guide": 4990,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "河南省郑州市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "新鲜纯牛奶",
+            "bg_color": "",
+            "text_color": "#666666",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5040
+          },
+          {
+            "position": 50,
+            "text": "¥49.9",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "2c8ca349-9d3d-457d-97f7-41932331a8c7",
+        "price": 5280,
+        "stock_quantity": 5,
+        "spread_tag": 0,
+        "market_price": 6800,
+        "discount_rate": 0.78,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "c53f7ba3-97bc-4a54-9e7d-f3f5415ff1e8",
+            "spread_tag": 0,
+            "spread_tag_desc": "23年1月2日到期",
+            "stock_quantity": 5,
+            "price": 5280,
+            "time_production": 1656777600000,
+            "time_expired": 1672675140000,
+            "time_earliest_delivery": 1658070365045,
+            "time_last_delivery": 1670083140000,
+            "description": "",
+            "num": "2040502651082207172306319400",
+            "receipt_checklist_id": "cdeb6599-c4da-4f54-9072-5e302104ef72",
+            "supplier_id": "d7be1da8-5ae0-4b6a-b17a-cfe9393c40a5",
+            "discount_label": "已减15.2元",
+            "purchase_fail_tip": "库存不足，无法加购更多啦"
+          }
+        ],
+        "spec": "200ml*12盒/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "860355a5-a161-4606-86e3-5bdf1a3e2354",
+        "name": "新疆花园黄金牧场纯牛奶200g*12盒/箱",
+        "sub_title": "黄金奶源带 每一滴都来自牧场",
+        "main_image": "STORE_PRODUCT/401143756aca4bb9870a838bf0252232/1601283341168.png",
+        "product_original_image": "STORE_PRODUCT/401143756aca4bb9870a838bf0252232/1601283341168.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": true,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "已减15.2元",
+        "price_guide": 5980,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "新疆",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "23年1月2日到期",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥68",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          },
+          {
+            "position": 40,
+            "text": "新旧包装",
+            "bg_color": "#EBFEF3",
+            "text_color": "#17B356",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 30,
+            "style": 4,
+            "value": 3010
+          }
+        ],
+        "purchase_fail_tip": "库存不足，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "80b7be61-a6ff-4740-8301-d1e7954e0225",
+        "price": 1190,
+        "stock_quantity": 12,
+        "spread_tag": 0,
+        "market_price": 2380,
+        "discount_rate": 0.5,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "f85c2509-a5c9-4bcd-bdee-621449c8318e",
+            "spread_tag": 0,
+            "spread_tag_desc": "7月14日上市",
+            "stock_quantity": 12,
+            "price": 1190,
+            "time_production": 1657641600000,
+            "time_expired": 1658937540000,
+            "time_earliest_delivery": 1657980524220,
+            "time_last_delivery": 1658764740000,
+            "description": "",
+            "num": "204050969108220716220855957",
+            "receipt_checklist_id": "4582581f-eea6-4b4f-8f96-89b27ac6904e",
+            "supplier_id": "10ed33ab-b82f-4ad7-b2b2-90ddfa6dc1d0",
+            "discount_label": "已减11.9元",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "950ml",
+        "order_remarks": [
+
+        ],
+        "product_id": "3923fbcf-5f04-45fc-868a-3430cd57f08d",
+        "name": "光明新鲜牧场高品质牛乳950ml/盒",
+        "sub_title": "好新鲜   新旧包装 ",
+        "main_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1586747930480.png",
+        "product_original_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1586747930480.png",
+        "custom_tag_background_color": "#429ed9",
+        "custom_tag_text": "冷藏   新旧包装",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "STORE_PRODUCT/cdc41a95115f4fdab25c4bf36a554162/1650770158974.jpg",
+        "discount_label": "已减11.9元",
+        "price_guide": 1590,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "浙江省杭州市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "7cb4a5aa-6bf2-4ae2-a8b2-edbbbab3865d",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "7月14日上市",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥23.8",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "1c93c16a-3909-46c3-8800-e8a51638c5b7",
+        "price": 199,
+        "stock_quantity": 32,
+        "spread_tag": 0,
+        "market_price": 350,
+        "discount_rate": 0.57,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "252725b8-b6f6-4428-9562-016edf64276e",
+            "spread_tag": 0,
+            "spread_tag_desc": "7月9日生产",
+            "stock_quantity": 32,
+            "price": 199,
+            "time_production": 1657296000000,
+            "time_expired": 1659715199999,
+            "time_earliest_delivery": 1658067284184,
+            "time_last_delivery": 1659542399000,
+            "description": "",
+            "num": "204053036108220717221459940",
+            "receipt_checklist_id": "23b69622-f93a-48f8-9092-ffe3718f92bf",
+            "supplier_id": "9ff2b803-3060-434b-a90b-bc3696b67b9e",
+            "discount_label": "5.7折",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "180ml/袋",
+        "order_remarks": [
+          "需要吸管",
+          "不需要吸管"
+        ],
+        "product_id": "b17c2b3c-057c-482c-b9cb-dce6b17b3002",
+        "name": "新希望透明袋纯牛奶180ml/袋",
+        "sub_title": "喝得到的浓香醇， 严格甄选专属牧场",
+        "main_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1649677463298.png",
+        "product_original_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1649677463298.png",
+        "custom_tag_background_color": "#429ed9",
+        "custom_tag_text": "2-6℃储存",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "5.7折",
+        "price_guide": 290,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "江苏省苏州市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "7cb4a5aa-6bf2-4ae2-a8b2-edbbbab3865d",
+        "is_advance_sale": false,
+        "spu_id": "96797f25-7fe1-44f5-9355-0ca721ea2ebb",
+        "labels": [
+          {
+            "position": 30,
+            "text": "7月9日生产",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥3.5",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "2901e67d-c115-48c5-b66d-e0fde6e53c2f",
+        "price": 7980,
+        "stock_quantity": 9,
+        "spread_tag": 0,
+        "market_price": 8980,
+        "discount_rate": 0.89,
+        "activity_ids": [
+
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+
+        ],
+        "spec": "250ml*24/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "75cbee08-b694-484b-9873-3914c18a1734",
+        "name": "长富天然牧场纯牛奶250ml*24/箱",
+        "sub_title": "香浓醇正 营养美味",
+        "main_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1631238370882.png",
+        "product_original_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1631238370882.png",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "已减10元",
+        "price_guide": 8980,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "福建省南平市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "香浓醇正 营养美味",
+            "bg_color": "",
+            "text_color": "#666666",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5040
+          },
+          {
+            "position": 50,
+            "text": "已减10元",
+            "bg_color": "",
+            "text_color": "#FF7B00",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 7,
+            "value": 4030
+          }
+        ],
+        "purchase_fail_tip": "库存不足，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "87e050e1-8f18-433f-97f8-4885e168f205",
+        "price": 4800,
+        "stock_quantity": 6,
+        "spread_tag": 0,
+        "market_price": 5990,
+        "discount_rate": 0.8,
+        "activity_ids": [
+
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "fef6284b-fa8e-487d-a203-c6b5e861f96a",
+            "spread_tag": 0,
+            "spread_tag_desc": "22年11月15日到期",
+            "stock_quantity": 6,
+            "price": 4800,
+            "time_production": 1652630400000,
+            "time_expired": 1668527940000,
+            "time_earliest_delivery": 1658070353471,
+            "time_last_delivery": 1665935940000,
+            "description": "",
+            "num": "2040000411082207172306189075",
+            "receipt_checklist_id": "b4c29cf9-d5ec-40ae-b0fd-34491220bb1c",
+            "supplier_id": "1cc15397-43b9-46d4-a564-1357bbb8b9e8",
+            "discount_label": "已减11.9元",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "250ml*12/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "79e90b3f-7b5a-47b7-bed6-47bdeec2f3db",
+        "name": "伊利金典奶250ml*12/箱",
+        "sub_title": "优质牧场 品质牛奶",
+        "main_image": "STORE_PRODUCT/a241ea1579eb4958a291b398e20768b8/1648196246780.png",
+        "product_original_image": "STORE_PRODUCT/a241ea1579eb4958a291b398e20768b8/1648196246780.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "STORE_PRODUCT/cdc41a95115f4fdab25c4bf36a554162/1640941563802.png",
+        "discount_label": "已减11.9元",
+        "price_guide": 4950,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "见商品外包装为准",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "22年11月15日到期",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 50,
+            "text": "¥59.9",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "b6a5aa87-255b-4222-8162-abc4ab52e985",
+        "price": 5580,
+        "stock_quantity": 6,
+        "spread_tag": 0,
+        "market_price": 5990,
+        "discount_rate": 0.93,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+
+        ],
+        "spec": "200ml*20/箱",
+        "order_remarks": [
+
+        ],
+        "product_id": "0de38617-3e04-4a8d-9f3c-36bb52633c83",
+        "name": "新疆天润纯牛奶200ml*20/箱 ",
+        "sub_title": "产地新疆，15个自有牧场，优质奶源",
+        "main_image": "STORE_PRODUCT/a241ea1579eb4958a291b398e20768b8/1636363264848.png",
+        "product_original_image": "STORE_PRODUCT/a241ea1579eb4958a291b398e20768b8/1636363264848.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "新旧包装",
+        "custom_tag_is_enabled": true,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "",
+        "price_guide": 5990,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "新疆",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "spu_id": "a7b8d86a-09ce-4ad7-a3d3-82ec6cf4eb85",
+        "labels": [
+          {
+            "position": 30,
+            "text": "产地新疆，15个自有牧场，优质奶源",
+            "bg_color": "",
+            "text_color": "#666666",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5040
+          },
+          {
+            "position": 50,
+            "text": "¥59.9",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          },
+          {
+            "position": 40,
+            "text": "新旧包装",
+            "bg_color": "#EBFEF3",
+            "text_color": "#17B356",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 30,
+            "style": 4,
+            "value": 3010
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "d585e963-3fe1-489b-9203-29cec51b9553",
+        "price": 990,
+        "stock_quantity": 5,
+        "spread_tag": 0,
+        "market_price": 1390,
+        "discount_rate": 0.71,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "5f39f885-09e2-4327-a758-7440b21264d4",
+            "spread_tag": 0,
+            "spread_tag_desc": "23年3月8日到期",
+            "stock_quantity": 5,
+            "price": 990,
+            "time_production": 1646755200000,
+            "time_expired": 1678291140000,
+            "time_earliest_delivery": 1657814048308,
+            "time_last_delivery": 1676563140000,
+            "description": "",
+            "num": "20400029410822071423541004",
+            "receipt_checklist_id": "c4d5e804-289f-4fa5-8595-a6855f2c6a26",
+            "supplier_id": "b7d4d423-8258-4953-8604-488f9a5b39d0",
+            "discount_label": "",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "1L",
+        "order_remarks": [
+
+        ],
+        "product_id": "4bd38ab0-ad9c-42c0-b31d-2ad9ddc54d36",
+        "name": "澳大利亚德运全脂牛奶1L/盒",
+        "sub_title": "新旧包装",
+        "main_image": "STORE_PRODUCT/7e2fcd404204420e8cfce6ef20c9431c/1595656738428.png?x-oss-process=image/format,jpg,image/resize,h_720/watermark,image_U0NFTkVTX0JBTk5FUi80ZDg2MDU5ZTMwNzA0M2UzYmU1NmZmMDQ2ZGM1ZGIxOS8xNjU1MzA4OTg4NTEwLnBuZz94LW9zcy1wcm9jZXNzPWltYWdlL3Jlc2l6ZSxQXzEwMA,t_100,g_center,x_0,y_0#",
+        "product_original_image": "STORE_PRODUCT/7e2fcd404204420e8cfce6ef20c9431c/1595656738428.png",
+        "custom_tag_background_color": "#e63c3c",
+        "custom_tag_text": "每人限5份",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "",
+        "price_guide": 990,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "澳大利亚",
+        "stock_quantity_tag": "",
+        "tax_category_id": "3e8b007e-b6ee-4307-8dff-68b8c526ff33",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "23年3月8日到期",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 10,
+            "text": "",
+            "bg_color": "",
+            "text_color": "",
+            "images": [
+              {
+                "type": 10,
+                "url": "",
+                "image_height": 0,
+                "image_width": 0,
+                "id": "09f746bf-9f9a-41aa-8994-77a33e00c439"
+              },
+              {
+                "type": 30,
+                "url": "SCENES_BANNER/4d86059e307043e3be56ff046dc5db19/1655308988510.png",
+                "image_height": 0,
+                "image_width": 0,
+                "id": "09f746bf-9f9a-41aa-8994-77a33e00c439"
+              }
+            ],
+            "link_router": "",
+            "type": 60,
+            "style": 1,
+            "value": 6010
+          },
+          {
+            "position": 50,
+            "text": "¥13.9",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "93b5fde8-5254-48eb-99ab-1b1988e2df8d",
+        "price": 300,
+        "stock_quantity": 20,
+        "spread_tag": 0,
+        "market_price": 300,
+        "discount_rate": 1.0,
+        "activity_ids": [
+          "022f4e2c-5963-49dc-b8cc-f87527f05ea0"
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+
+        ],
+        "spec": "250ml/盒",
+        "order_remarks": [
+
+        ],
+        "product_id": "031fa97f-988a-4021-9c07-08fb0187d69b",
+        "name": "长富精品奶250ml/盒",
+        "sub_title": "奶香浓郁 营养美味",
+        "main_image": "STORE_PRODUCT/5d0bc5a2a4f946beb9a1b7234737d588/1631415799079.png",
+        "product_original_image": "STORE_PRODUCT/5d0bc5a2a4f946beb9a1b7234737d588/1631415799079.png",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "",
+        "price_guide": 300,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "福建省南平市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "88ef1e8f-707a-4aab-8e02-9fb250ef4eae",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "奶香浓郁 营养美味",
+            "bg_color": "",
+            "text_color": "#666666",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5040
+          },
+          {
+            "position": 40,
+            "text": "换购",
+            "bg_color": "#FFEBEC",
+            "text_color": "#FE1B26",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 20,
+            "style": 4,
+            "value": 2040
+          }
+        ],
+        "purchase_fail_tip": "库存不足，无法加购更多啦",
+        "is_hide_spu": true
+      },
+      {
+        "id": "a352828a-e53a-47a6-a4f9-4f9f8b6070cb",
+        "price": 1090,
+        "stock_quantity": 12,
+        "spread_tag": 10,
+        "market_price": 1590,
+        "discount_rate": 0.69,
+        "activity_ids": [
+
+        ],
+        "flash_sale_info": null,
+        "sell_batches": [
+          {
+            "batch_id": "a9ffe42b-0504-4781-9a7a-f2aa31cb4774",
+            "spread_tag": 0,
+            "spread_tag_desc": "7月16日上市",
+            "stock_quantity": 12,
+            "price": 1090,
+            "time_production": 1657814400000,
+            "time_expired": 1659110340000,
+            "time_earliest_delivery": 1658151351435,
+            "time_last_delivery": 1658851140000,
+            "description": "",
+            "num": "204053400108220718213615947",
+            "receipt_checklist_id": "04a74d3a-bf40-492d-89d7-46ad8b920a6a",
+            "supplier_id": "6350a395-b17b-4da7-a921-dc41acfeac22",
+            "discount_label": "6.9折",
+            "purchase_fail_tip": "已达限购数量，无法加购更多啦"
+          }
+        ],
+        "spec": "960ml/盒",
+        "order_remarks": [
+
+        ],
+        "product_id": "8051da93-18ba-4f8e-bcd8-6f3277d8d8da",
+        "name": "蒙牛鲜牛奶屋顶盒960ml/盒",
+        "sub_title": "蒙牛全脂巴氏鲜牛奶",
+        "main_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1654771206359.jpg",
+        "product_original_image": "STORE_PRODUCT/a3d844176f6c416f86ffd8d6eda5d02a/1654771206359.jpg",
+        "custom_tag_background_color": "#429ed9",
+        "custom_tag_text": "2-6℃冷藏保存",
+        "custom_tag_is_enabled": false,
+        "purchase_type": 0,
+        "recommendation_image": "",
+        "discount_label": "6.9折",
+        "price_guide": 1390,
+        "is_plan_off_shelf": false,
+        "is_weigh_buy": false,
+        "origin": "广东省清远市,湖北省武汉市",
+        "stock_quantity_tag": "",
+        "tax_category_id": "7cb4a5aa-6bf2-4ae2-a8b2-edbbbab3865d",
+        "is_advance_sale": false,
+        "labels": [
+          {
+            "position": 30,
+            "text": "7月16日上市",
+            "bg_color": "",
+            "text_color": "#0EA0EA",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 50,
+            "style": 7,
+            "value": 5010
+          },
+          {
+            "position": 20,
+            "text": "新品",
+            "bg_color": "#0EA0EA",
+            "text_color": "#FFFFFF",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 10,
+            "style": 2,
+            "value": 1040
+          },
+          {
+            "position": 50,
+            "text": "¥15.9",
+            "bg_color": "",
+            "text_color": "#BBBBBB",
+            "images": [
+
+            ],
+            "link_router": "",
+            "type": 40,
+            "style": 6,
+            "value": 4040
+          }
+        ],
+        "purchase_fail_tip": "已达限购数量，无法加购更多啦",
+        "is_hide_spu": true
+      }
+    ],
+    "activities": [
+      {
+        "id": "022f4e2c-5963-49dc-b8cc-f87527f05ea0",
+        "name": "奶制品满一件换购-7月",
+        "content": "奶制品满一件换购",
+        "discount_type": 50,
+        "condition_amount": 1,
+        "discount_amount": 1,
+        "time_start": 1656691200000,
+        "time_end": 1659283199999,
+        "valid_minute_start": 0,
+        "valid_minute_end": 1439,
+        "is_online": true,
+        "redeem_type": 20,
+        "condition_type": 20,
+        "main_tag": "换购",
+        "keyword": "换购",
+        "activity_desc": "换购",
+        "is_sell_disable_product": true
+      }
+    ],
+    "correct_term": "牛奶",
+    "show_recommend": true,
+    "show_menu": false,
+    "relevance_extend_product_id_list": [
+      "4c067e41-27b7-4a40-bc85-67f6960ac2f6\u0004search_rec_taxcate",
+      "5fd81025-70f9-4cf4-a292-11fff165be22\u0004search_rec_embedding",
+      "ddccb873-0783-4c43-a20f-37f08caad844\u0004search_rec_i2i,search_rec_taxcate",
+      "44bfd1cb-33cc-4c65-9625-200ac07abee4\u0004search_rec_i2i,search_rec_taxcate",
+      "1b209f7e-fae8-4df3-bc52-8536ff5594b7\u0004search_rec_taxcate",
+      "eab6f41b-b75c-4c3e-ab99-0532e16daacd\u0004search_rec_taxcate",
+      "afacf5e0-2fa0-42d2-a12b-20b3f98bc2d9\u0004search_rec_taxcate",
+      "b36852ff-aeb0-4c9f-a0dc-146f0339b3a4\u0004search_rec_taxcate",
+      "dc3958db-21e9-4af5-a433-1b140e4a5ea5\u0004search_rec_taxcate",
+      "4b17be0e-7ae8-47af-be96-1c52d75e92b5\u0004search_rec_taxcate",
+      "9087a4bd-91e6-48d5-ade0-a2cca06cde5a\u0004search_rec_taxcate",
+      "b222e37c-f022-4ad2-b09d-49691c4396ee\u0004search_rec_embedding",
+      "cc78295e-70fa-4fc2-a1c9-30baa860b0a1\u0004search_rec_taxcate",
+      "40186ef5-5934-4523-8b31-89aaea929e24\u0004search_rec_embedding",
+      "234a7523-b211-4d1a-a70f-2f03abbf92e8\u0004search_rec_taxcate",
+      "ed0f4512-c052-4990-b8f4-db686c321eb0\u0004search_rec_taxcate",
+      "44f319f2-d2c2-423c-8764-562e510411a1\u0004search_rec_embedding",
+      "6ad24766-91a5-437b-8b65-24944d6294e0\u0004search_rec_embedding",
+      "01cab6ed-16bf-4f26-9f8d-7b62d4b9e805\u0004search_rec_truncate",
+      "190d96ab-508c-4117-81d9-f4e9e91a74ca\u0004search_rec_taxcate",
+      "b088d36b-b296-4288-abac-07d5244f5821\u0004search_rec_truncate,search_rec_taxcate",
+      "e8d98ffa-5418-45a8-ae49-ca376fe685e5\u0004search_rec_embedding",
+      "1d633fec-9203-4e27-8d6b-9546ec531b02\u0004search_rec_embedding",
+      "9b1f6dc2-e79d-497b-9ef5-009f325b2758\u0004search_rec_embedding",
+      "bff4d05c-a816-4f68-a669-ed9a10a00d9c\u0004search_rec_truncate,search_rec_taxcate",
+      "74f75099-4e87-4119-88b1-068ba9d8b569\u0004search_rec_embedding",
+      "6a8a444c-804a-45fa-890c-2efd881ad53d\u0004search_rec_i2i",
+      "38d0bb78-a51e-48fb-950d-f0f43af74e69\u0004search_rec_truncate",
+      "289130ff-f223-4110-83a5-6f60634e21e7\u0004search_rec_truncate",
+      "80a301d9-8b24-4d58-815b-76c0727519f4\u0004search_rec_taxcate",
+      "a0beefe0-5f02-492a-a7d9-115ec8ec552b\u0004search_rec_embedding",
+      "5a8fba8e-1e97-43dd-88cc-2cbdd011a275\u0004search_rec_embedding",
+      "cbd1c74e-f1a6-47dc-ac8d-055248aad759\u0004search_rec_embedding",
+      "26449ab1-4a07-4b12-a0dc-c13eb5f0fb1f\u0004search_rec_embedding",
+      "83df5eb1-e064-47d5-99ac-4cf6f3f064fa\u0004search_rec_embedding",
+      "95a7790e-bc5a-4cf9-968f-3008d8ae56f4\u0004search_rec_taxcate",
+      "926a2f51-eb55-42df-b715-4b5b15d80501\u0004search_rec_embedding",
+      "b23af30c-aa5e-438b-b553-0459b6b61f90\u0004search_rec_embedding",
+      "2128cb4e-8c9e-48f6-a37e-262d023c083d\u0004search_rec_truncate",
+      "edd03b11-e3f4-4aae-85fd-a977545987c4\u0004search_rec_embedding",
+      "f7916090-2877-4c80-9e58-1771104c8171\u0004search_rec_embedding",
+      "71522880-5846-46f4-9947-8aef57ac616d\u0004search_rec_truncate",
+      "3f21654e-e794-4a83-9d5c-dfcbc7269253\u0004search_rec_i2i",
+      "daf98b69-8ab9-4638-ba90-adb4e0b25fdd\u0004search_rec_truncate",
+      "5ef2281b-240e-4446-9a96-cf073f1f05b9\u0004search_rec_embedding",
+      "6392254f-b5bb-4913-a356-2f79dc4e24ed\u0004search_rec_taxcate,search_rec_embedding",
+      "8c7bc92b-eb00-43bf-b521-6dff21c3b591\u0004search_rec_taxcate",
+      "e03f9423-f87d-4369-b38e-d9423172350b\u0004search_rec_embedding",
+      "51a74e0a-b70c-49a5-a4c7-63825cda95ec\u0004search_rec_embedding",
+      "b4becc05-e1fa-479b-8dda-5ab0d1f3c938\u0004search_rec_embedding",
+      "08c63bb2-425e-4a5a-accf-3f363ea533c4\u0004search_rec_embedding",
+      "f57e8ed4-02de-4f35-ada0-2e9d4ce06424\u0004search_rec_embedding",
+      "24efb03e-a0d7-46c2-9978-d0b21865108d\u0004search_rec_truncate",
+      "882a5dee-330c-4dde-9bcb-18de800ea5b8\u0004search_rec_i2i",
+      "e1453d72-826e-4544-9f18-e0130358ca52\u0004search_rec_embedding",
+      "7a48d0f4-9d43-4535-a0e7-30d0e29a981e\u0004search_rec_truncate,search_rec_embedding",
+      "645bf803-ee7c-4fb5-93f0-a2d166785fcb\u0004search_rec_embedding",
+      "5853350f-f39f-43b3-ab63-ae518f7f4e86\u0004search_rec_taxcate",
+      "c53a7571-a6c5-4134-b530-884494ce0986\u0004search_rec_embedding",
+      "e5c52aa4-1240-4039-8c4a-9f4ae0642a38\u0004search_rec_i2i",
+      "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\u0004search_res"
+    ],
+    "recommend_words": [
+      "纯牛奶",
+      "面包",
+      "鲜牛奶",
+      "鲜奶",
+      "酸奶",
+      "特仑苏"
+    ],
+    "fold": {
+      "is_open": true,
+      "min_count": 5,
+      "min_stock_out": 2
+    },
+    "feed_cards": [
+      {
+        "link_id": "b7e4a5fa-2dcb-4fb5-adf6-e9cccd6f5389",
+        "link_type": 220,
+        "route": "pupumall://pupumall.com/product/scene_detail?scene_id=b7e4a5fa-2dcb-4fb5-adf6-e9cccd6f5389&banner_url=",
+        "position_value": 7,
+        "ad_style": 500
+      }
+    ],
+    "feed_keywords": [
+      {
+        "keywords": [
+          "纯牛奶",
+          "面包",
+          "鲜牛奶",
+          "鲜奶",
+          "酸奶",
+          "特仑苏"
+        ],
+        "position_value": 20,
+        "ad_style": 700
+      }
+    ],
+    "tag_filters": [
+      {
+        "tag_id": "906741ca-62f5-45ff-b7b0-d878c8a4f3b6",
+        "tag_name": "箱装",
+        "tag_group": "牛奶_包装形式",
+        "tag_picture_url": "TAG_PLATFORM/7740253a935042c7a88796114d87a00e/59b02f312f01b702bfd5c1070d7c0885.png"
+      },
+      {
+        "tag_id": "0994258a-19ad-46f9-baf1-bfadfe6ee281",
+        "tag_name": "鲜奶",
+        "tag_group": "牛奶_类别",
+        "tag_picture_url": "TAG_PLATFORM/1899297cec244509b8f63e6ed5a99bb8/4c40fe0cfd25bda50b45766b058ba632.png"
+      },
+      {
+        "tag_id": "3ecabf13-462c-41c0-96e5-1e11370ced2e",
+        "tag_name": "新疆奶",
+        "tag_group": "牛奶_产地",
+        "tag_picture_url": "TAG_PLATFORM/1899297cec244509b8f63e6ed5a99bb8/c989ee2fc7685416faac0a5100626914.png"
+      },
+      {
+        "tag_id": "68d9db6d-9052-4ea5-bf86-3cae4961e814",
+        "tag_name": "常温奶",
+        "tag_group": "牛奶_类别",
+        "tag_picture_url": "TAG_PLATFORM/7740253a935042c7a88796114d87a00e/68ef18a2c8ec166bc0fdaffa6d4ab2a0.png"
+      },
+      {
+        "tag_id": "9c581014-c3b9-427c-8b48-591c15251d2b",
+        "tag_name": "有机奶",
+        "tag_group": "牛奶_是否有机",
+        "tag_picture_url": "TAG_PLATFORM/1899297cec244509b8f63e6ed5a99bb8/c620df3f091a6238027e51e7922d0db5.png"
+      },
+      {
+        "tag_id": "635210c1-4d4a-423a-8c6a-20f0e710c527",
+        "tag_name": "进口奶",
+        "tag_group": "牛奶_国产进口",
+        "tag_picture_url": "TAG_PLATFORM/1899297cec244509b8f63e6ed5a99bb8/754c113a24cbcc97a341536745dac39a.png"
+      },
+      {
+        "tag_id": "16ac87b7-76fc-4f8f-81c4-61db18394d24",
+        "tag_name": "低脂奶",
+        "tag_group": "牛奶_脂肪含量",
+        "tag_picture_url": "TAG_PLATFORM/1899297cec244509b8f63e6ed5a99bb8/736439ffbd3a670f79fac8f2b44d7156.png"
+      },
+      {
+        "tag_id": "ba6c103e-9285-45c6-83bc-8a4f9140c53b",
+        "tag_name": "儿童奶",
+        "tag_group": "牛奶_适用人群",
+        "tag_picture_url": "TAG_PLATFORM/7740253a935042c7a88796114d87a00e/222a8ad40a4b0a0b5d63795fcaf5f264.png"
+      }
+    ]
+  }
+}
